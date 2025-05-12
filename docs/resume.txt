@@ -1,0 +1,29 @@
+# Shrayanshika's Resume
+
+## Professional Summary
+Product leader with 7+ years building AI products, SaaS platforms, and fintech solutions. From automating 40% of fleet ops to scaling loyal customer base to 5M+ for Abbott, I drive impact through data, innovation, and strategy. Currently leading growth at EduFund.
+
+## Skills
+- Product Management
+- Product Design
+- UX/UI Design
+- Analytics
+- AI (LLMs)
+- Agile Methodology
+- JIRA
+- Figma
+- SQL
+- Basic Programming
+
+## Experience
+- Product Manager at EduFund (2021-Present)
+- Senior Product Manager at Abbott (2019-2021)
+- Product Designer at Zapcom (2017-2019)
+
+## Education
+- IIM, Lucknow: Executive program in Data-Driven Product Management (2021)
+- ACEIT: B.Tech in Electronics & Telecommunications (2015)
+
+## Contact
+Email: sayhello@luther.com
+Phone: +197 543 2345 
