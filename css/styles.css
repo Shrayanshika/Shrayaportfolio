@@ -326,7 +326,7 @@ main {
 }
 
 h1 {
-    font-size : 2em;
+    font-size : 1.5em;
     margin    : 0.67em 0;
 }
 
@@ -2686,7 +2686,7 @@ img.u-pull-left {
 }
 
 .text-huge-title {
-    --text-huge : 10.8rem;
+    --text-huge : 4rem;
     font-size   : var(--text-huge);
     line-height : 1.0740;
     margin-top  : 0;
