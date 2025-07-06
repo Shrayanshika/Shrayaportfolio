@@ -1,71 +1,23 @@
 ==================================================================================================
 
 DESCRIPTION:
+Hi I'm Shrayanshika. Welcome to my learning space! 
+This is where I explore, document, and share ideas, concepts, and product lessons.
+I'm discovering along the way. Everything you’ll find here is shaped by curiosity, 
+hands-on experience, and my point of view as a product manager navigating tech, data, 
+and design. Think of it as my digital notebook—open to the world. 
 
-LUTHER is a modern, stylish, free personal website template designed for creative individuals 
-and professionals. It is the perfect template if you wish to build an online presence and create 
-a strong first impression on all your site visitors. Luther will help you craft a personal 
-professional website wherein you can showcase your works, talents, and present yourself on the 
-web in the best possible light. On top of that, the template is versatile and easy to customize 
-so with some modifications and a bit of creativity you even use it as a portfolio site for 
-digital studios or a landing page for your projects.
-
+To build this portfolio I have used open source HTML design template called "LUTHER" by styleshout.com. 
+Hence this portolio is not for redistribution, I'm using it for personal use of showcasing the work I have done.
 ==================================================================================================
-
-
-LICENSE:
-
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
-
-
-Rights:
--------
-
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
-
-
-Prohibitions:
--------------
-
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
 
 
 Attribution: 
 ------------
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
-
-
+Heartious credit to styleshout please contact them on the link to theie website(https://www.styleshout.com).
 
 If you have any questions about the License, feel free to contact us.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
 
 ------------------------------------------------------------------------------------------------------ 
 
@@ -126,7 +78,23 @@ Javascript Files:
 
 -------------------------------------------------------------------------------------------------------
 
+REMOVING THE ATTRIBUTION LINK:
 
-Thanks for downloading from Styleshout :)
+We understand that there are situations where you want to use our templates without 
+the crediting obligation. If that's your case, you can always send us a 
+credit removal fee of 10 USD through Paypal. This will allow you to use a single 
+template attribution/credit link free on ONE DOMAIN name.
+
+You can send your payments through Paypal to this address: ealigam@gmail.com or
+visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
+and click the pay button on the page.
+
+If possible, kindly send us the site's url where the template is being used. 
+Also, keep your Paypal receipt as proof of payment and your good to go.
+
+-----------------------------------------------------------------------------------------------------
+
+
+Thanks to Styleshout :)
 
 
